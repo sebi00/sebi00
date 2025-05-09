@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<!-- https://github.com/DiniFarb/codewars_readme_stats/tree/master
+displays codwars stats at github readme-->
+![Codewars](https://github.r2v.ch/codewars?user=Zaubär)
+
 <!--
 **sebi00/sebi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
