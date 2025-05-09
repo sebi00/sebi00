@@ -2,7 +2,7 @@
 
 <!-- https://github.com/DiniFarb/codewars_readme_stats/tree/master
 displays codwars stats at github readme-->
-![Codewars](https://github.r2v.ch/codewars?user=Sebastian+Karger&name=true&top_languages=true&stroke=%23b362ff)
+![Codewars](https://github.r2v.ch/codewars?user=Sebastian+Karger&name=true&top_languages=true&stroke=%23BB432C)
 
 <!--
 **sebi00/sebi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
